@@ -238,7 +238,7 @@ footer small {
 }
 
 #aboutus {
-  background-image: url(../image/amikake_bg-aboutus.PNG);
+  background-image: url(amikake_bg-aboutus.PNG);
   background-repeat: no-repeat;
   background-position: center top;
   background-attachment: fixed;
@@ -342,7 +342,7 @@ a img:hover {
 }
 
 #photograph {
-  background-image: url(../image/amikake_bg-photograph.PNG);
+  background-image: url(amikake_bg-photograph.PNG);
   background-repeat: no-repeat;
   background-position: center top;
   background-attachment: fixed;
@@ -366,7 +366,7 @@ a img:hover {
 }
 
 #contact {
-  background-image: url(../image/amikake_bg-contact.PNG);
+  background-image: url(amikake_bg-contact.PNG);
   background-repeat: no-repeat;
   background-position: center top;
   background-attachment: fixed;
@@ -445,7 +445,7 @@ a img:hover {
 
 
 #concept {
-  background-image: url(../image/amikake_photograph-object-04_2.PNG);
+  background-image: url(amikake_photograph-object-04_2.PNG);
   background-repeat: no-repeat;
   background-position: center top;
   background-attachment: fixed;
